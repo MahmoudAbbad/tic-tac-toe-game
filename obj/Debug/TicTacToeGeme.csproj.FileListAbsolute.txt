@@ -1,0 +1,11 @@
+C:\Users\mahmo\source\repos\TicTacToeGeme\bin\Debug\TicTacToeGeme.exe.config
+C:\Users\mahmo\source\repos\TicTacToeGeme\bin\Debug\TicTacToeGeme.exe
+C:\Users\mahmo\source\repos\TicTacToeGeme\bin\Debug\TicTacToeGeme.pdb
+C:\Users\mahmo\source\repos\TicTacToeGeme\obj\Debug\TicTacToeGeme.csproj.AssemblyReference.cache
+C:\Users\mahmo\source\repos\TicTacToeGeme\obj\Debug\TicTacToeGeme.Form1.resources
+C:\Users\mahmo\source\repos\TicTacToeGeme\obj\Debug\TicTacToeGeme.Properties.Resources.resources
+C:\Users\mahmo\source\repos\TicTacToeGeme\obj\Debug\TicTacToeGeme.csproj.GenerateResource.cache
+C:\Users\mahmo\source\repos\TicTacToeGeme\obj\Debug\TicTacToeGeme.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\source\repos\TicTacToeGeme\obj\Debug\TicTacToeGeme.exe
+C:\Users\mahmo\source\repos\TicTacToeGeme\obj\Debug\TicTacToeGeme.pdb
+C:\Users\mahmo\source\repos\TicTacToeGeme\obj\Debug\TicTacToeGeme.exe.config
